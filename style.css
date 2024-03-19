@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(236, 137, 15);
+}
+#shekla{
+    color: rgb(112, 59, 59);
+}
+
+dt{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+}
+
+dd{
+    font-family: 'Trebuchet MS', sans-serif;
+    color: rgb(100, 122, 122);
+    
+}
+.Steps{
+    font-weight: bold;
+}
+#home{
+    color: brown;
+    background-color: rgb(6, 199, 135);
+    font-style: italic;
+    font-family: "Brush Script MT";
+}
